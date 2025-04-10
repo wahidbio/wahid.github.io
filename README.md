@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dr. Md. Wahiduzzaman
+# Md. Wahiduzzaman, PhD
 
 🎓 Postdoctoral Researcher  
 🧬 Computational Biology & Functional Genomics  
@@ -10,7 +10,7 @@
 ## 🔬 Research Interests
 
 - Single-cell omics (RNA-seq, ATAC-seq, CUT&Tag)
-- Chromatin accessibility & histone modifications
+- Chromatin accessibility, Histone modifications, Transcriptional factors
 - Multi-omics integration and visualization
 - Bioinformatics tools and pipeline development
 
