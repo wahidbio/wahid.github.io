@@ -26,7 +26,7 @@
 
 ## 🌐 Online Profiles
 
-- [🌐 Personal Website](https://wahidg123.github.io/) (or `drwahid.github.io`)
+- [🌐 Personal Website](https://github.com/wahidbio/) 
 - [💼 ORCID](https://orcid.org/0000-0001-8288-2884)
 - [📂 GitHub Projects](https://github.com/wahidbio)
 
