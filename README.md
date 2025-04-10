@@ -8,6 +8,14 @@
 
 ---
 
+## 🔬 RESEARCH INTERESTS
+
+- Single-cell omics (RNA-seq, ATAC-seq, CUT&Tag)  
+- Chromatin accessibility, Histone modifications, Transcriptional factors  
+- Multi-omics integration and visualization  
+- Bioinformatics tools and pipeline development
+
+---
 ## 🎓 ACADEMIC QUALIFICATION
 
 - **May 2024**  
@@ -16,17 +24,7 @@
 
 - **Dec 2018**  
   M.Sc. in *Statistics*, Faculty of Science, Bangabandhu Sheikh Mujibur Rahman Science & Technology University, Gopalganj, Bangladesh  
-  CGPA: 3.89 out of 4  
-  1st position in order of merit  
-
----
-
-## 🔬 RESEARCH INTERESTS
-
-- Single-cell omics (RNA-seq, ATAC-seq, CUT&Tag)  
-- Chromatin accessibility, Histone modifications, Transcriptional factors  
-- Multi-omics integration and visualization  
-- Bioinformatics tools and pipeline development
+  CGPA: 3.89 out of 4 [1st position in order of merit] 
 
 ---
 
