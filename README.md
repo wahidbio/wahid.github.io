@@ -8,7 +8,7 @@
 
 ---
 
-## 🔬 RESEARCH INTERESTS
+## RESEARCH INTERESTS
 
 - Single-cell omics (RNA-seq, ATAC-seq, CUT&Tag)  
 - Chromatin accessibility, Histone modifications, Transcriptional factors  
@@ -16,7 +16,7 @@
 - Bioinformatics tools and pipeline development
 
 ---
-## 🎓 ACADEMIC QUALIFICATION
+## ACADEMIC QUALIFICATION
 
 - **May 2024**  
   PhD in *Computational Biology*, University of Chinese Academy of Sciences, Beijing, China  
@@ -28,15 +28,15 @@
 
 ---
 
-## 📄 PUBLICATIONS
+## PUBLICATIONS
 
-### 🆕 **Recent (In Preparation / Under Review)**
+### **Recent (In Preparation / Under Review)**
 
 1. **Wahiduzzaman, M.**, Yin, P., Jun, W., Wang, J.* (2025). *Computational tools for analyzing histone modification and transcriptional factors at the single-cell level.* *(To be prepared: Briefings in Bioinformatics)*  
 2. **Wahiduzzaman, M.**, Jun, W., Wang, J.* (2025). *Integrate single-cell and bulk sequencing data to analyze histone modification and transcriptional factors.* *(To be prepared)*  
 3. **Wahiduzzaman, M.**, Weiran, C., Huang, T.*, Li, Q., Li, Y., Zheng, G. (2024). *Investigating intra-tumor heterogeneity of breast epithelial cells with high Gini genes.* *(Under Review: Bioinformatics)*  
 
-### ✅ **Published**
+### **Published**
 
 1. Roy, M.*, Azam, M. S., **Wahiduzzaman, M.** (2024). *Gluten-free products: A strategy for a nutritionally appropriate balanced diet for celiac patients and children.* *Food Science and Nutrition*  
 2. Azam, M. S., **Wahiduzzaman, M.**, & Islam, M. N. (2024). *Food Contaminants in Poultry and Eggs.* In *Food Safety* (pp. 83–98). CRC Press  
@@ -48,7 +48,7 @@
 8. Azam, M. S.*, **Wahiduzzaman, M.**, Reyad-ul-Ferdous, M., Islam, M. N., Roy, M. (2022). *Inhibition of insulin degrading enzyme to control diabetes mellitus and its applications on some other chronic disease: A critical review.* *Pharmaceutical Research*  
 9. Biswas, B., **Wahiduzzaman, M.** (2017). *Modeling and forecasting GDP at current market price in Bangladesh: An application of ARIMA model.* *International Journal of Advanced Research*  
 
-### 🎤 **Conference Papers**
+### **Conference Papers**
 
 1. Islam, M. M., Azad, S. M. N., Ali, M., **Wahiduzzaman, M.**, Azam, M. S. (2023). *Comparative Study of Sparse Canonical Correlation Analysis (SCCA) on High-Dimensional Data.*  
    *International Conference on Sustainable Engineering Development (ICSED-2023)*, Paper ID: ICSED2023-069, June 13–14, 2023, DUET, Gazipur, Bangladesh.  
@@ -57,7 +57,7 @@
 
 ---
 
-## 🧪 RESEARCH EXPERIENCES
+## RESEARCH EXPERIENCES
 
 - **Jul 2024 – Present**  
   *Assistant Researcher*, Laboratory of Bioinformatics and Functional Genomics, Hunan University, China  
@@ -73,7 +73,7 @@
 
 ---
 
-## 🏅 HONORS AND AWARDS
+## HONORS AND AWARDS
 
 - **2019** — CAS-TWAS President’s Fellowship, *Chinese Academy of Sciences & The World Academy of Sciences (CAS-TWAS)*  
 - **2018** — *National Science and Technology (NST) Fellowship*, Ministry of Science and Technology, Bangladesh  
@@ -81,7 +81,7 @@
 
 ---
 
-## 🧰 SKILLS
+## SKILLS
 
 - **Computer Skills**: Windows, Linux, macOS, MS Office  
 - **Programming Skills**: Turbo C, C++, Python  
@@ -90,7 +90,7 @@
 
 ---
 
-## 🎓 CONFERENCE & TRAINING
+## CONFERENCE & TRAINING
 
 - **15–19 May 2023** — *2023 Spring School on Frontier and Interdisciplinary Sciences*, UCAS, Hangzhou Institute for Advanced Study, Hangzhou, China  
 - **24–26 May 2022** — *“The Future of Medicine” — Development and Applications of AI in Disease Biology and Health Care*  
@@ -100,7 +100,7 @@
 - **30–31 Oct 2021** — *Governance and Application of Biomedical Big Data*, Shanghai Institute of Nutrition and Health, CAS, Shanghai  
 - **24 Sep 2018** — *1st National Conference on “Application of Statistics on Sustainable Development Goals”*, MBSTU, Bangladesh  
 
-## 🌐 **Online Profiles**
+## **Online Profiles**
 
 - [🌐 Personal Website](https://sites.google.com/d/1rR7SrOcYyjRyzZx-DqGm3Crhskynh0EL/p/1SdWLaPZGnx36JJtp-OJmxQuLhtkZAqod/edit)  
 - [💼 ORCID](https://orcid.org/0000-0001-8288-2884)  
