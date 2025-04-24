@@ -102,6 +102,11 @@
 
 ## **Online Profiles**
 
-- [🌐 Personal Website](https://sites.google.com/d/1rR7SrOcYyjRyzZx-DqGm3Crhskynh0EL/p/1SdWLaPZGnx36JJtp-OJmxQuLhtkZAqod/edit)  
-- [💼 ORCID](https://orcid.org/0000-0001-8288-2884)  
-- [📂 GitHub Projects](https://github.com/wahidbio)
+## **🌐 Online Profiles**
+
+- [🌍 Personal Website](https://sites.google.com/d/1rR7SrOcYyjRyzZx-DqGm3Crhskynh0EL/p/1SdWLaPZGnx36JJtp-OJmxQuLhtkZAqod/edit)  
+- [🧬 ORCID](https://orcid.org/0000-0001-8288-2884)  
+- [📚 Google Scholar](https://scholar.google.com/citations?user=FJbVDIwAAAAJ)  
+- [💼 LinkedIn](https://www.linkedin.com/in/drwahidcompbio/)  
+- [🏫 School Profile](http://smyjy.hnu.edu.cn/index.htm)  
+- [🐦 Twitter / X](https://x.com/MdWahid21812193)
